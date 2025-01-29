@@ -22,15 +22,15 @@ Education
   * Minor physics and astrophysics
   * Cum laude
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Funding and awards
 ======
-* PhD Fellowship of the FWO for two+two years (2021-2025)
+* PhD Fellowship of Flanders Research Foundation (FWO) for two+two years (2021-2025)
 
 Talks
 ======
@@ -54,7 +54,7 @@ Skills
 * Systems:
   * UNIX, LaTeX, HTML, Git
 * Languages:
-  * Dutch (native), English (fluent), French (fluent)
+  * Dutch (native), English (fluent), French (conversational)
 
 Teaching
 ======
