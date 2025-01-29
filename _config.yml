@@ -21,10 +21,10 @@ repository               : "nicolasbrughmans/nicolasbrughmans.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto_personeelskaart.png"
   name             : "Nicolas Brughmans"
   pronouns         : "he/him" 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm a PhD Candidate at KU Leuven working with Rony Keppens and supported by an FWO fellowship."
   location         : "Belgium"
   employer         : "KU Leuven, FWO"
   uri              : # URL
