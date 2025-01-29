@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Nicolas Brughmans / Personal Website"
+title                    : "Nicolas Brughmans"
 title_separator          : "-"
 name                     : &name "Nicolas Brughmans"
-description              : &description "I'm a PhD Candidate at KU Leuven working with Rony Keppens and supported by an FWO fellowship."
+description              : &description "I'm a PhD Fellow at KU Leuven supported by the FWO and working on plasma instabilities."
 url                      : https://nicolasbrughmans.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicolasbrughmans/nicolasbrughmans.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "foto_personeelskaart.png"
   name             : "Nicolas Brughmans"
   pronouns         : "he/him" 
-  bio              : "I'm a PhD Candidate at KU Leuven working with Rony Keppens and supported by an FWO fellowship."
-  location         : "Belgium"
-  employer         : "KU Leuven, FWO"
+  bio              : "I'm a PhD Fellow at KU Leuven supported by the FWO and working on plasma instabilities."
+  location         : "Leuven, Belgium"
+  employer         : "FWO (KU Leuven)"
   uri              : # URL
   email            : "nicolas.brughmans@kuleuven.be" 
 
