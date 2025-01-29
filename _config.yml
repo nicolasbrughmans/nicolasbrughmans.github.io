@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "foto_personeelskaart.png"
   name             : "Nicolas Brughmans"
-  pronouns         : #"he/him" 
+  pronouns         : "he/him" 
   bio              : "I'm a PhD Fellow supported by the FWO working on plasma instabilities."
   location         : "Leuven, Belgium"
   employer         : "FWO (KU Leuven)"
