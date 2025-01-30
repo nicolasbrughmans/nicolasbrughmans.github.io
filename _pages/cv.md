@@ -30,7 +30,7 @@ Education
 
 Funding and awards
 ======
-* PhD Fellowship of Flanders Research Foundation (FWO) for two+two years (2021-2025)
+* PhD Fellowship of Flanders Research Foundation (FWO), 2021-2025: "Magnetoseismology of accretion disks: towards the full spectrum for turbulent disks" (11J2624N)
 
 Talks
 ======
