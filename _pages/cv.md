@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, KU Leuven, 2025 (expected)
-  * Thesis: <i> Astrophysical instability: disco- and prominence seismology <\i>
+  * Thesis: <i> Astrophysical instability: disco- and prominence seismology </i>
   * Supervisor: prof. dr. Rony Keppens
 * M.S. in Mathematics, KU Leuven, 2021
-  * Thesis: <i> Prominence formation by thermal instability <\i>
+  * Thesis: <i> Prominence formation by thermal instability </i>
   * Focus: plasma physics and mathematical analysis
   * Summa cum laude
 * B.S. in Mathematics, KU Leuven, 2019
@@ -41,7 +41,7 @@ Talks
 Skills
 ======
 * Expertise:
-  * Theoretial and numerical <b> magnetohydrodynamics <\b>
+  * Theoretial and numerical <b> magnetohydrodynamics </b>
   * Waves and instabilities
   * Solar physics
   * HPC at VSC cluster (Flanders)
