@@ -1,5 +1,5 @@
 ---
-title: "Parametric Survey of Nonaxisymmetric Accretion Disk Instabilities: Magnetorotational Instability to Super-Alfv&apos;enic Rotational Instability"
+title: "Parametric Survey of Nonaxisymmetric Accretion Disk Instabilities: Magnetorotational Instability to Super-Alfvénic Rotational Instability"
 collection: publications
 permalink: /publication/2024-06-01-Parametric-Survey-of-Nonaxisymmetric-Accretion-Disk-Instabilities-Magnetorotational-Instability-to-Super-Alfvenic-Rotational-Instability
 date: 2024-06-01
