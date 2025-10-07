@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Nicolas, a PhD Candidate at KU Leuven working on magnetohydrodynamics (MHD), a domain of plasma physics. My thesis, to be defended this summer, focuses on instabilities in black hole accretion disks and on solar prominence formation. 
+I'm Nicolas, a postdoctoral researcher at KU Leuven working on magnetohydrodynamics (MHD), a domain of plasma physics. My PhD thesis focuses on instabilities in black hole accretion disks and on solar prominence formation and can be found [here](https://nicolasbrughmans.github.io/files/thesis_met_cover.pdf). 
 
 Research interests
 ======
