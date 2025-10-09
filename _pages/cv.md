@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, KU Leuven, 2025 
-  * Thesis: <i> [Astrophysical Instability in Flux Ropes and Accretion Disks](https://nicolasbrughmans.github.io/files/thesis_met_cover.pdf) </i>
+  * Thesis: <i> [Astrophysical Instability in Flux Ropes and Accretion Disks](https://perswww.kuleuven.be/~u0016541//MHD_sheets_pdf/thesisNicolas.pdf) </i>
   * Supervisor: prof. dr. Rony Keppens
 * M.S. in Mathematics, KU Leuven, 2021
   * Thesis: <i> Prominence formation by thermal instability </i>
